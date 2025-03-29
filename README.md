@@ -74,6 +74,9 @@ The dataset consists of **31,047 rows** and **21 columns**, covering:
 
 ---
 
+## Dashboard image: 
+https://github.com/sundram55/Vrinda-Store-Sales-Analysis-Dashboard-Excel-Based-/blob/main/Vrinda%20Store%20Sales%20Analysis%20%26%20Dashboard.png
+
 ## 📌 Next Steps & Improvements
 - 📈 **Predictive Sales Analysis** – Using Excel Forecasting tools for future trends.  
 - 🎯 **Customer Segmentation** – Grouping customers based on behavior & purchase history.  
